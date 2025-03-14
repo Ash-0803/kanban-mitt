@@ -2,6 +2,15 @@
 
 A beautiful and functional Kanban board built with React, TypeScript, and Tailwind CSS. This application allows users to manage tasks across different stages with drag-and-drop functionality and search capabilities.
 
+## Coding Practices
+
+- **Code Consistency**: Follow consistent coding styles and conventions throughout the project.
+- **Type Safety**: Utilize TypeScript to ensure type safety and reduce runtime errors.
+- **Component Reusability**: Design components to be reusable and maintainable.
+- **State Management**: Use Zustand for efficient and scalable state management.
+- **Responsive Design**: Ensure the application is responsive and works well on various devices.
+- **Testing**: Write unit and integration tests to maintain code quality and reliability.
+
 ## Features
 
 - Four-column Kanban board (To Do, In Progress, Peer Review, Done)
